@@ -1,9 +1,9 @@
 Graph Basics
 ============
 
-In this first lesson we will look at basics what graphs are and how we can represent them in plain python. We'll also look at
-how to represent the different variables types we typically encounter: continuous and categorical variables. For categorical
-variables, well go into details of how to use Embedding layers to create dense vectors and how we can combine multiple categorical
+In this first lesson we will look at the basics of what graphs are and how we can represent them in plain python. We'll also look at
+how to represent the different variable types we typically encounter: continuous and categorical variables. For categorical
+variables, we'll go into details of how to use Embedding layers to create dense vectors and how we can combine multiple categorical
 and continuous variables to a single feature vector.
 
 * `Categorical Variables <https://colab.research.google.com/drive/1Ztswb43t3IkJamX0Zmn-LbgLETgt9y0W?usp=sharing>`_
